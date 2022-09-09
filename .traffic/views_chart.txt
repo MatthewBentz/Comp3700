@@ -1,10 +1,4 @@
-# Comp3700
 
-Software Modeling and Design with Tung Nguyen at Auburn University
-
-Coded in IntelliJ and DBBrowser for SQLite database files
-
-```
     Total Views per Day from 2022-09-08 to 2022-09-09
 
     Repository Views
@@ -27,8 +21,3 @@ Coded in IntelliJ and DBBrowser for SQLite database files
 
     Chart last updated - Fri Sep  9 01:18:31 2022 UTC
     
-```
-
----
-
-> RepoStats by [Wumphlett](https://github.com/Wumphlett)
