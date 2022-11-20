@@ -5,7 +5,7 @@ Software Modeling and Design with Tung Nguyen at Auburn University
 Coded in IntelliJ and DBBrowser for SQLite database files
 
 ```
-    Total Views per Day from 2022-09-08 to 2022-11-19
+    Total Views per Day from 2022-09-08 to 2022-11-20
 
     Repository Views
    36.00  ┼╮
@@ -23,9 +23,9 @@ Coded in IntelliJ and DBBrowser for SQLite database files
     7.20  ┤│
     4.80  ┤│                                         ╭╮
     2.40  ┤│   ╭╮    ╭╮                              ││
-    0.00  ┤╰───╯╰────╯╰──────────────────────────────╯╰────────────────────────────
+    0.00  ┤╰───╯╰────╯╰──────────────────────────────╯╰─────────────────────────────
 
-    Chart last updated - Sat Nov 19 01:06:20 2022 UTC
+    Chart last updated - Sun Nov 20 01:08:50 2022 UTC
     
 ```
 
