@@ -5,27 +5,27 @@ Software Modeling and Design with Tung Nguyen at Auburn University
 Coded in IntelliJ and DBBrowser for SQLite database files
 
 ```
-        Total Views per Day from 2022-09-20 to 2022-12-18
+        Total Views per Day from 2022-09-21 to 2022-12-19
 
         Repository Views
-       6 ┼                              ╭╮
-       6 ┤                              ││
-       5 ┤                              ││
-       5 ┤                              ││
-       4 ┤                              ││
-       4 ┤                              ││
-       4 ┤                              ││
-       3 ┤                              ││
-       3 ┤                              ││
-       2 ┤                              ││
-       2 ┤                              ││
-       2 ┤                              ││
-       1 ┤                              ││
-       1 ┤                  ╭╮   ╭╮     ││    ╭╮   ╭╮         ╭╮                      ╭─╮
-       0 ┤                  ││   ││     ││    ││   ││         ││                      │ │
-       0 ┼──────────────────╯╰───╯╰─────╯╰────╯╰───╯╰─────────╯╰──────────────────────╯ ╰──────────
+       6 ┼                             ╭╮
+       6 ┤                             ││
+       5 ┤                             ││
+       5 ┤                             ││
+       4 ┤                             ││
+       4 ┤                             ││
+       4 ┤                             ││
+       3 ┤                             ││
+       3 ┤                             ││
+       2 ┤                             ││
+       2 ┤                             ││
+       2 ┤                             ││
+       1 ┤                             ││
+       1 ┤                 ╭╮   ╭╮     ││    ╭╮   ╭╮         ╭╮                      ╭─╮
+       0 ┤                 ││   ││     ││    ││   ││         ││                      │ │
+       0 ┼─────────────────╯╰───╯╰─────╯╰────╯╰───╯╰─────────╯╰──────────────────────╯ ╰───────────
 
-        Chart last updated - Sun Dec 18 00:53:00 2022 UTC
+        Chart last updated - Mon Dec 19 00:51:34 2022 UTC
         
 ```
 
